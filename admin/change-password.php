@@ -90,7 +90,7 @@ return true;
               <!--header start here-->
 <?php include('includes/header.php');?>
 							
-				     <div class="clearfix"> </div>	
+<div class="clearfix"> </div>	
 				</div>
 <!--heder end here-->
 	<ol class="breadcrumb">
